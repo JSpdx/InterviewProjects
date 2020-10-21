@@ -7,6 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <TextBox HorizontalAlignment="Left" Margin="62,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="62,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" Height="94"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="57,19,0,0" VerticalAlignment="Top"/>
+        <Label Content="Title" HorizontalAlignment="Left" Margin="57,19,0,0" VerticalAlignment="Top"/>
+        <Label Content="Slide Text" HorizontalAlignment="Left" Margin="62,78,0,0" VerticalAlignment="Top"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Margin="62,217,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.253,0.627"/>
+
 
     </Grid>
 </Window>
